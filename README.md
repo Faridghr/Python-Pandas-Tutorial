@@ -14,8 +14,8 @@ To get started with the tutorials, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/pandas-tutorials.git
-    cd pandas-tutorials
+    git clone https://github.com/Faridghr/Python-Pandas-Tutorial.git
+    cd Python-Pandas-Tutorial
     ```
 
 2. **Set up the environment**:
@@ -29,8 +29,8 @@ To get started with the tutorials, follow these steps:
 
     Using `conda`:
     ```bash
-    conda create --name pandas-tutorials python=3.9
-    conda activate pandas-tutorials
+    conda create --name Python-Pandas-Tutorial python=3.9
+    conda activate Python-Pandas-Tutorial
     ```
 
 3. **Install dependencies**:
